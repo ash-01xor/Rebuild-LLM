@@ -43,3 +43,5 @@ venv.bak/
 
 #model weights
 /Process/Pretraining/gpt2
+/Process/Pretraining/model.pth 
+/Process/Pretraining/model_and_optimizer.pth
