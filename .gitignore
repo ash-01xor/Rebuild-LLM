@@ -45,3 +45,14 @@ venv.bak/
 /Process/Pretraining/gpt2
 /Process/Pretraining/model.pth 
 /Process/Pretraining/model_and_optimizer.pth
+/Process/Finetuning/models
+/Process/Finetuning/review_classifier.pth
+
+
+#Datasets
+#Finetuning process
+/Process/Finetuning/sms_spam_collection
+/Process/Finetuning/sms_spam_collection.zip
+/Process/Finetuning/train.csv
+/Process/Finetuning/test.csv
+/Process/Finetuning/validation.csv
