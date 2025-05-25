@@ -48,6 +48,9 @@ venv.bak/
 /Process/Finetuning/models
 /Process/Finetuning/review_classifier.pth
 
+#instruction finetuning
+/Process/Instruction_Finetuning/gpt2
+/Process/Instruction_Finetuning/gpt2-small124M-sft.pth
 
 #Datasets
 #Finetuning process
@@ -56,3 +59,5 @@ venv.bak/
 /Process/Finetuning/train.csv
 /Process/Finetuning/test.csv
 /Process/Finetuning/validation.csv
+
+
